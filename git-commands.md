@@ -2,8 +2,8 @@
 
 ## Configuring Git
 
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name "Shawn Peghee"
+git config --global user.email "Shawn.Peghee@pnc.com"
 
 
 ## Initializing a Repository
